@@ -1,0 +1,7 @@
+samplename	filename	condition	paired	stranded
+FFctrl_1	/media/raid/users/alexandros/verykokakis_rna_seq/quantseq_MV437/bam_files/MV3R26_FFctrl_1_013.bam	FFctrl	single	forward
+FFDEN_1	/media/raid/users/alexandros/verykokakis_rna_seq/quantseq_MV437/bam_files/MV3R27_FFDEN_1_014.bam	FFDEN	single	forward
+FFctrl_2	/media/raid/users/alexandros/verykokakis_rna_seq/quantseq_MV437/bam_files/MV3R31_FFctrl_2_018.bam	FFctrl	single	forward
+FFDEN_2-1	/media/raid/users/alexandros/verykokakis_rna_seq/quantseq_MV437/bam_files/MV3R31_FFDEN_2-1_019.bam	FFDEN	single	forward
+FFDEN_2-2	/media/raid/users/alexandros/verykokakis_rna_seq/quantseq_MV437/bam_files/MV3R32_FFDEN_2-2_020.bam	FFDEN	single	forward
+
